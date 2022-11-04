@@ -11,5 +11,17 @@ Para descargar el programa se puede hacer como .zip desde github.com/mendozamari
 si se tiene instalado git en el dispositivo donde se desee almacenar, abrir una terminal y ejecutar el codigo
 git clone https://github.com/mendozamario/tweepy_project.git 
 
-Para ejectuar el programa se debe abrir una terminal en la carpeta que se descargo y ejecutar el siguiente codigo 
-python search.py 
+La función del programa comienza teniendo en cuenta que se necesita un nombre de usuario, tal cual como aparece en el
+link del perfil de la persona que desees buscar, luego de eso se va al archivo twitter.py y en la ultima linea se coloca
+el nombre de usuario sin el @.
+
+Para ejecutarlo en la dirección de la carpeta, se abre una terminal y se ejecuta el comando:
+- Linux: python3 twitter.py
+- Windows: python twitter.py
+
+Luego de eso se abre el archivo de power bi, ya sea online o en la aplicación de power bi que puede ser descargada en la
+microsoft store, y ahí se va al lado izquierdo a la tercera pestaña, donde estan cargadas las tablas y sobre la tabla le da a los 3 puntos
+en la parte superior derecha de esta, y va hasta la opción actualizar tabla. Luego de eso ya puede ver los graficos actualizados.
+
+
+-- El programa se encuentra en desarrollo --
