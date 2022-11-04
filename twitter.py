@@ -17,7 +17,6 @@ auth.set_access_token (access_token, acces_token_secret)
 
 api = tweepy.API(auth)
 
-
 def exportUserTimeline(username):
     data_list = []
 
